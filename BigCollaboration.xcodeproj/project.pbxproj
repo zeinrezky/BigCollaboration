@@ -17,7 +17,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		C9F44C0520F74335004CCBCB /* RickyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RickyViewController.swift; sourceTree = "<group>"; };
+=======
+		6B46CC2220F7431C00EFC9D9 /* SantosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantosViewController.swift; sourceTree = "<group>"; };
+>>>>>>> 384bda1cfd602e6e4cba7640e1f6a20c21843538
 		E63C836D20F740D200465993 /* BigCollaboration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BigCollaboration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E63C837020F740D200465993 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E63C837220F740D200465993 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,7 +65,11 @@
 				E63C837020F740D200465993 /* AppDelegate.swift */,
 				E63C837220F740D200465993 /* ViewController.swift */,
 				E63C837420F740D200465993 /* Main.storyboard */,
+<<<<<<< HEAD
 				C9F44C0520F74335004CCBCB /* RickyViewController.swift */,
+=======
+				6B46CC2220F7431C00EFC9D9 /* SantosViewController.swift */,
+>>>>>>> 384bda1cfd602e6e4cba7640e1f6a20c21843538
 				E63C837720F740D200465993 /* Assets.xcassets */,
 				E63C837920F740D200465993 /* LaunchScreen.storyboard */,
 				E63C837C20F740D200465993 /* Info.plist */,
