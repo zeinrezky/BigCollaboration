@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2B38CC0720F7432200F8643E /* JuliViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuliViewController.swift; sourceTree = "<group>"; };
 		E63C836D20F740D200465993 /* BigCollaboration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BigCollaboration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E63C837020F740D200465993 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E63C837220F740D200465993 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +59,7 @@
 			children = (
 				E63C837020F740D200465993 /* AppDelegate.swift */,
 				E63C837220F740D200465993 /* ViewController.swift */,
+				2B38CC0720F7432200F8643E /* JuliViewController.swift */,
 				E63C837420F740D200465993 /* Main.storyboard */,
 				E63C837720F740D200465993 /* Assets.xcassets */,
 				E63C837920F740D200465993 /* LaunchScreen.storyboard */,
