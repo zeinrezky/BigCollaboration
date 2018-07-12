@@ -13,10 +13,15 @@
 		E63C837620F740D200465993 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E63C837420F740D200465993 /* Main.storyboard */; };
 		E63C837820F740D200465993 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E63C837720F740D200465993 /* Assets.xcassets */; };
 		E63C837B20F740D200465993 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E63C837920F740D200465993 /* LaunchScreen.storyboard */; };
+		E63C838320F7431F00465993 /* ZeinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E63C838220F7431F00465993 /* ZeinViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		9960509120F7432500C4FEF6 /* SaniaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaniaViewController.swift; sourceTree = "<group>"; };
+=======
+		2B38CC0720F7432200F8643E /* JuliViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuliViewController.swift; sourceTree = "<group>"; };
+>>>>>>> 335c81dc839e314660592c2f799a02fbb2b737cd
 		E63C836D20F740D200465993 /* BigCollaboration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BigCollaboration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E63C837020F740D200465993 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E63C837220F740D200465993 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +29,7 @@
 		E63C837720F740D200465993 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E63C837A20F740D200465993 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E63C837C20F740D200465993 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E63C838220F7431F00465993 /* ZeinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeinViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +64,13 @@
 			children = (
 				E63C837020F740D200465993 /* AppDelegate.swift */,
 				E63C837220F740D200465993 /* ViewController.swift */,
+				2B38CC0720F7432200F8643E /* JuliViewController.swift */,
 				E63C837420F740D200465993 /* Main.storyboard */,
 				9960509120F7432500C4FEF6 /* SaniaViewController.swift */,
 				E63C837720F740D200465993 /* Assets.xcassets */,
 				E63C837920F740D200465993 /* LaunchScreen.storyboard */,
 				E63C837C20F740D200465993 /* Info.plist */,
+				E63C838220F7431F00465993 /* ZeinViewController.swift */,
 			);
 			path = BigCollaboration;
 			sourceTree = "<group>";
@@ -139,7 +147,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				E63C837320F740D200465993 /* ViewController.swift in Sources */,
+<<<<<<< HEAD
 				9960509220F7432500C4FEF6 /* SaniaViewController.swift in Sources */,
+=======
+				E63C838320F7431F00465993 /* ZeinViewController.swift in Sources */,
+>>>>>>> 335c81dc839e314660592c2f799a02fbb2b737cd
 				E63C837120F740D200465993 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
